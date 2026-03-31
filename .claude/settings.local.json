@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:statsapi.mlb.com)",
+      "Bash(find . -name *)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:learn.adafruit.com)",
+      "WebFetch(domain:docs.micropython.org)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:raw.githubusercontent.com)"
+    ]
+  }
+}
